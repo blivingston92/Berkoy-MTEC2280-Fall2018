@@ -1,4 +1,4 @@
-//From demo on functions
+//From demo on functions!
 //Creating user-defined function for drawing ice cream cones
 
 
