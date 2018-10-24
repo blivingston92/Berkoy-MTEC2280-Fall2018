@@ -95,7 +95,6 @@ void mousePressed() {
     } else if (state=="trivia") {
       triviaText= int(random(1, 4)); //returns trivia at random
       state= "end";
-      triviaText=1;  //reset before we switch states
     }
 
     //color stuff
